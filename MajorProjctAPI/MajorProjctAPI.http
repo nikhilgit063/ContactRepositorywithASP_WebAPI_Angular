@@ -1,0 +1,6 @@
+@MajorProjctAPI_HostAddress = http://localhost:5031
+
+GET {{MajorProjctAPI_HostAddress}}/User/
+Accept: application/json
+
+###
